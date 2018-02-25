@@ -44,7 +44,9 @@ public class Lalocandina extends PApplet {
 
 		String executionPath = System.getProperty("user.dir");
 		executionPath = executionPath.replace("\\", "/");
-		save(executionPath + "./the-dukes-of-hazzard.png");
+		//save(executionPath + "./the-dukes-of-hazzard.png");
+		
+		exit();
 	}
 
 	public void star(float x, float y, float size) {

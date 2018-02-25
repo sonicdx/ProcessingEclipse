@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="ProcessingLib/lib/gluegen-rt-natives-linux-aarch64.jar"/>
 	<classpathentry kind="lib" path="ProcessingLib/lib/gluegen-rt-natives-linux-amd64.jar"/>
 	<classpathentry kind="lib" path="ProcessingLib/lib/gluegen-rt-natives-linux-armv6hf.jar"/>
@@ -19,5 +20,12 @@
 	<classpathentry kind="lib" path="ProcessingLib/lib/jogl-all-natives-windows-i586.jar"/>
 	<classpathentry kind="lib" path="ProcessingLib/lib/jogl-all.jar"/>
 	<classpathentry kind="lib" path="ProcessingLib/lib/core.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/itext.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-svggen-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLib/lib/batik-xml-1.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
