@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-svggen-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/controlP5.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/core.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/itext.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="ProcessingLibs/jogl-all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
